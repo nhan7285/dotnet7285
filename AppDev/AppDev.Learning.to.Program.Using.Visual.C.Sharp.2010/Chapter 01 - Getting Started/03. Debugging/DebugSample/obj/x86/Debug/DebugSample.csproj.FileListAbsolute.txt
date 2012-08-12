@@ -1,0 +1,12 @@
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\03. Debugging\DebugSample\DebugSample\bin\Debug\DebugSample.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\03. Debugging\DebugSample\DebugSample\bin\Debug\DebugSample.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\03. Debugging\DebugSample\DebugSample\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\03. Debugging\DebugSample\DebugSample\obj\x86\Debug\DebugSample.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\03. Debugging\DebugSample\DebugSample\obj\x86\Debug\DebugSample.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\obj\x86\Debug\DebugSample.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\obj\x86\Debug\DebugSample.pdb
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\obj\x86\Debug\DebugSample.exe
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\obj\x86\Debug\DebugSample.pdb
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\bin\Debug\DebugSample.exe
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\bin\Debug\DebugSample.pdb
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\03. Debugging\DebugSample\obj\x86\Debug\ResolveAssemblyReference.cache

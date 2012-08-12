@@ -1,0 +1,7 @@
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\bin\Debug\UsingNetFramework.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\bin\Debug\UsingNetFramework.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\obj\x86\Debug\UsingNetFramework.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\obj\x86\Debug\UsingNetFramework.pdb
+D:\programming\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\obj\x86\Debug\UsingNetFramework.exe
+D:\programming\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 03 - Using the .NET Framework\UsingNetFramework\obj\x86\Debug\UsingNetFramework.pdb

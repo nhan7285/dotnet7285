@@ -1,0 +1,11 @@
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\02. Introduction to Visual Studio\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\02. Introduction to Visual Studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyConsoleApp.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\02. Introduction to Visual Studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyConsoleApp.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\02. Introduction to Visual Studio\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\02. Introduction to Visual Studio\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.pdb
+Y:\windows\2li.programming.dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.exe
+Y:\windows\2li.programming.dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.pdb
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.exe
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 01 - Getting Started\02. Introduction to Visual Studio\ConsoleApplication1\obj\x86\Debug\MyConsoleApp.pdb

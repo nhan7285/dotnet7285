@@ -1,0 +1,16 @@
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\04. Intro to Variables - Data Types\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\04. Intro to Variables - Data Types\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\04. Intro to Variables - Data Types\DataTypesAndVariables\DataTypesAndVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\04. Intro to Variables - Data Types\DataTypesAndVariables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\04. Intro to Variables - Data Types\DataTypesAndVariables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+Y:\5. dotnet\workspace\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\dotnet\workspace\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.exe
+Y:\dotnet\workspace\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.pdb
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.exe
+D:\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.pdb
+D:\programming\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.exe
+D:\programming\2. dotnet\AppDev\AppDev.Learning.to.Program.Using.Visual.C.Sharp.2010\Chapter 02 - Data Types and Variables\DataTypesAndVariables\obj\x86\Debug\DataTypesAndVariables.pdb
